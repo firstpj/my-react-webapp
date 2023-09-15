@@ -1,7 +1,7 @@
 <div align="center">
     <br/>
 
-  <h3><b>Math Magicians</b></h3>
+  <h3><b>Weather view app</b></h3>
 
 </div>
 
@@ -24,9 +24,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math Magicians] <a name="about-project"></a>
+# 📖 [Weather view app] <a name="about-project"></a>
 
-Math Magicians, it's a simple website based on React and linters.
+"Weather view app" This web application is designed to cater to anyone with an interest in weather, offering comprehensive access to various metrics such as temperature, wind speed, humidity, and more
 
 ## 🛠 Built With <a name="built-with"></a>
 
