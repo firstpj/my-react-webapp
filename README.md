@@ -50,12 +50,24 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Install react**
+- **[React Library]**
+- **[Linters implementation]**
+- **[Metrics application]**
+- **[API integration]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🚀 Live Demo <a name="live-demo"></a>
 
-## 💻 Getting Started <a name="getting-started"></a>
+- Live Demo [Link](https://firstpj-my-react-webapp.onrender.com)
+
+### 🚀 Presentation <a name="presentation"></a>
+
+- Presentation [video](https://youtu.be/V495A_FApN0)
+
+
+
+## Getting Started <a name="getting-started"></a>
 
 - To install a duplicate of this project on your computer, kindly abide by the guidelines provided below.
 
@@ -100,7 +112,7 @@ npx stylelint "**/*.{css,scss}"
 - For Javascript:
 
 ```
-npx eslint .
+npx eslint "**/*.{js,jsx}"
 ```
 
 ### Deployment <a name="deployment"></a>
@@ -118,14 +130,12 @@ You can deploy this project using: GitHub Pages.
 - GitHub: [@firstpj](https://github.com/firstpj)
 - Twitter: [@AkordaC](https://twitter.com/AkordaC)
 - LinkedIn: [Collins Akorda](https://www.linkedin.com/in/collins-akorda-bb46b2232/)
-
-- https://firstpj-my-react-webapp.onrender.com
-
+ 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
+## Future Features <a name="future-features"></a>
 
 - [ ] **Create Responsive Web Design**
 
