@@ -29,18 +29,25 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
+ >
+  <summary>Markup Language</summary>
   <ul>
-    <li><a href="#">HTML</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
   </ul>
-   <ul>
-    <li><a href="#">CSS</a></li>
-  </ul>
-   <ul>
-    <li><a href="#">Javascript</a></li>
-  </ul>
+</details>
+
+<details>
+<summary>Style</summary>
   <ul>
-    <li><a href="#">React</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">Tailwind CSS</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Layout</summary>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids">Grid</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox">Flexbox</a></li>
   </ul>
 </details>
 
