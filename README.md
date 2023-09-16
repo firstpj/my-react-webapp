@@ -1,27 +1,23 @@
-<div align="center">
-    <br/>
+# Capstone project
 
-  <h3><b>Weather view app</b></h3>
+# 📗 Table of Contents
 
-</div>
-
-- [📗 Table of Contents](#-table-of-contents)
 - [📖 About the Project](#about-project)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
-    - [Key Features ](#key-features-)
-  - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup)
-    - [Usage](#usage)
-    - [Deployment ](#deployment-)
-  - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [📝 License ](#-license-)
-
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Weather view app] <a name="about-project"></a>
@@ -158,7 +154,11 @@ If you like this project, follow me on gitHub.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- I would like to thank Microverse and my coding partner.
+- I would like to thanks to Microverse and my coding partner.
+- Thanks to the Code Reviewer(s) for the insightful feedback,
+morning session team, and standup team for their contributions.
+- [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the author of the original design [www.behance.net](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
